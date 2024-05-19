@@ -1,2 +1,3 @@
 # MLOps-Zoomcamp-May24
-MLOps zoomcamp projects
+
+Repository for MLOps zoomcamp tutorials and projects.
